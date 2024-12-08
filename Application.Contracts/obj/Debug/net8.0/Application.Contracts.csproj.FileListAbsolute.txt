@@ -1,0 +1,17 @@
+C:\Users\Kaban\source\repos\TaskManagement\Application.Contracts\bin\Debug\net8.0\Application.Contracts.deps.json
+C:\Users\Kaban\source\repos\TaskManagement\Application.Contracts\bin\Debug\net8.0\Application.Contracts.dll
+C:\Users\Kaban\source\repos\TaskManagement\Application.Contracts\bin\Debug\net8.0\Application.Contracts.pdb
+C:\Users\Kaban\source\repos\TaskManagement\Application.Contracts\obj\Debug\net8.0\Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaban\source\repos\TaskManagement\Application.Contracts\obj\Debug\net8.0\Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\Kaban\source\repos\TaskManagement\Application.Contracts\obj\Debug\net8.0\Application.Contracts.AssemblyInfo.cs
+C:\Users\Kaban\source\repos\TaskManagement\Application.Contracts\obj\Debug\net8.0\Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Kaban\source\repos\TaskManagement\Application.Contracts\obj\Debug\net8.0\Application.Contracts.dll
+C:\Users\Kaban\source\repos\TaskManagement\Application.Contracts\obj\Debug\net8.0\refint\Application.Contracts.dll
+C:\Users\Kaban\source\repos\TaskManagement\Application.Contracts\obj\Debug\net8.0\Application.Contracts.pdb
+C:\Users\Kaban\source\repos\TaskManagement\Application.Contracts\obj\Debug\net8.0\ref\Application.Contracts.dll
+C:\Users\Kaban\source\repos\TaskManagement\Application.Contracts\bin\Debug\net8.0\Core.Application.dll
+C:\Users\Kaban\source\repos\TaskManagement\Application.Contracts\bin\Debug\net8.0\Core.Domain.dll
+C:\Users\Kaban\source\repos\TaskManagement\Application.Contracts\bin\Debug\net8.0\Core.Application.pdb
+C:\Users\Kaban\source\repos\TaskManagement\Application.Contracts\bin\Debug\net8.0\Core.Domain.pdb
+C:\Users\Kaban\source\repos\TaskManagement\Application.Contracts\obj\Debug\net8.0\Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\Kaban\source\repos\TaskManagement\Application.Contracts\obj\Debug\net8.0\Applicat.6ADCBA11.Up2Date

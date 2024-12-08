@@ -1,0 +1,17 @@
+C:\Users\Kaban\source\repos\TaskManagement\Infrastructure.Messaging\bin\Debug\net8.0\Infrastructure.Messaging.deps.json
+C:\Users\Kaban\source\repos\TaskManagement\Infrastructure.Messaging\bin\Debug\net8.0\Infrastructure.Messaging.dll
+C:\Users\Kaban\source\repos\TaskManagement\Infrastructure.Messaging\bin\Debug\net8.0\Infrastructure.Messaging.pdb
+C:\Users\Kaban\source\repos\TaskManagement\Infrastructure.Messaging\obj\Debug\net8.0\Infrastructure.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaban\source\repos\TaskManagement\Infrastructure.Messaging\obj\Debug\net8.0\Infrastructure.Messaging.AssemblyInfoInputs.cache
+C:\Users\Kaban\source\repos\TaskManagement\Infrastructure.Messaging\obj\Debug\net8.0\Infrastructure.Messaging.AssemblyInfo.cs
+C:\Users\Kaban\source\repos\TaskManagement\Infrastructure.Messaging\obj\Debug\net8.0\Infrastructure.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\Kaban\source\repos\TaskManagement\Infrastructure.Messaging\obj\Debug\net8.0\Infrastructure.Messaging.dll
+C:\Users\Kaban\source\repos\TaskManagement\Infrastructure.Messaging\obj\Debug\net8.0\refint\Infrastructure.Messaging.dll
+C:\Users\Kaban\source\repos\TaskManagement\Infrastructure.Messaging\obj\Debug\net8.0\Infrastructure.Messaging.pdb
+C:\Users\Kaban\source\repos\TaskManagement\Infrastructure.Messaging\obj\Debug\net8.0\ref\Infrastructure.Messaging.dll
+C:\Users\Kaban\source\repos\TaskManagement\Infrastructure.Messaging\obj\Debug\net8.0\Infrastructure.Messaging.csproj.AssemblyReference.cache
+C:\Users\Kaban\source\repos\TaskManagement\Infrastructure.Messaging\obj\Debug\net8.0\Infrastr.1391A31C.Up2Date
+C:\Users\Kaban\source\repos\TaskManagement\Infrastructure.Messaging\bin\Debug\net8.0\Core.Application.dll
+C:\Users\Kaban\source\repos\TaskManagement\Infrastructure.Messaging\bin\Debug\net8.0\Core.Domain.dll
+C:\Users\Kaban\source\repos\TaskManagement\Infrastructure.Messaging\bin\Debug\net8.0\Core.Application.pdb
+C:\Users\Kaban\source\repos\TaskManagement\Infrastructure.Messaging\bin\Debug\net8.0\Core.Domain.pdb

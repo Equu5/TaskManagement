@@ -1,0 +1,7 @@
+{
+  "Core.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Kaban\\source\\repos\\TaskManagement\\Core.Application",
+  "Core.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Kaban\\source\\repos\\TaskManagement\\Core.Domain",
+  "Infrastructure.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Kaban\\source\\repos\\TaskManagement\\Infrastructure.Data",
+  "Infrastructure.Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Kaban\\source\\repos\\TaskManagement\\Infrastructure.Messaging",
+  "Web.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Kaban\\source\\repos\\TaskManagement\\Web.API"
+}
